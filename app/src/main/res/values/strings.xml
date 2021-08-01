@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AssignmentProject</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="change_version">Change Version</string>
+    <string name="update">Update</string>
+    <string name="disc">To Simulate the behaviour of the cache mechanism,
+        This application is having an files for network and cache stored in internal memory and default version of
+        both the files is 1 when you increase the version in the text box and click on the update button, that
+        will be considered server data has been updated and this new data will be updated
+        into the local cache. When version will be incremented, change in the data can be seen on the UI
+        as I am shuffling the data on every version change.
+    </string>
+    <string name="heading">CACHE DATA</string>
+</resources>
